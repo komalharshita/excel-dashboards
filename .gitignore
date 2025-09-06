@@ -1,0 +1,12 @@
+# Excel temporary files
+~$*.xls*
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
