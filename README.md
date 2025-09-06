@@ -9,7 +9,7 @@ Each folder includes the Excel file, a preview, and supporting documentation.
 
 | Dashboard Name          | Description                     | Preview |
 |--------------------------|---------------------------------|---------|
-| **Simple Sales Dashboard** | Visualizes sales by city, channel, representative, category, and month | ![Preview](simple-sales-dashboard/preview.png) |
+| **Simple Sales Dashboard** | Visualizes sales by city, channel, representative, category, and month | ![Preview](https://github.com/komalharshita/excel-dashboards/blob/main/Simple%20Excel%20Sales%20data%20Dashboard/dashboard%20img.png) |
 
 ---
 
