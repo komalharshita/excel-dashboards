@@ -10,6 +10,7 @@ Each folder includes the Excel file, a preview, and supporting documentation.
 | Dashboard Name          | Description                     | Preview |
 |--------------------------|---------------------------------|---------|
 | **Simple Sales Dashboard** | Visualizes sales by city, channel, representative, category, and month | ![Preview](https://github.com/komalharshita/excel-dashboards/blob/main/Simple%20Excel%20Sales%20data%20Dashboard/dashboard%20img.png) |
+| **Sales & Profit Dashboard** | Pastel-themed dashboard with Total Sales, Total Profit, category funnel, state map, top customers, and monthwise sales trends | ![Preview](https://github.com/komalharshita/excel-dashboards/blob/main/Sales%20and%20Profit%20Dashboard/dashboard-img.png) |
 
 ---
 
